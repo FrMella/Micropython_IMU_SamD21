@@ -1,0 +1,22 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "",
+    "features": [
+        "Battery Charging",
+        "Low Power",
+        "Small factor",
+        "Micro USB",
+        "IMU",
+        "SPI Flash"
+    ],
+    "images": [
+        "CawthronIMU.jpg"
+    ],
+    "mcu": "samd21",
+    "product": "Cawthron OpenOcean IMU",
+    "thumbnail": "",
+    "url": "https://www.cawthron.org.nz",
+    "vendor": "Cawthron"
+}

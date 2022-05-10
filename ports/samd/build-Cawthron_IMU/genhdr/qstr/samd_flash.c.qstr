@@ -1,0 +1,7 @@
+Q(flash_version)
+Q(flash_size)
+Q(flash_init)
+Q(readblocks)
+Q(writeblocks)
+Q(ioctl)
+Q(Flash)
