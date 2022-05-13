@@ -33,9 +33,7 @@
 #if MICROPY_PY_BUILTINS_HELP
 
 const char mp_help_default_text[] =
-    "Welcome to MicroPython!\n"
-    "\n"
-    "For online docs please visit http://docs.micropython.org/\n"
+    "Help Text hasnt defined please contact to Admin\n"
     "\n"
     "Control commands:\n"
     "  CTRL-A        -- on a blank line, enter raw REPL mode\n"
